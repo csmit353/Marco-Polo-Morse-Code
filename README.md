@@ -1,5 +1,6 @@
 # Marco-Polo-Morse-Code
-## Marco Polo: radio.onReceivedString(function (receivedString) {
+## Marco Polo: 
+radio.onReceivedString(function (receivedString) {
     basic.showString(receivedString)
 })
 input.onButtonPressed(Button.A, function () {
